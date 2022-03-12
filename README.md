@@ -1,9 +1,11 @@
-### Hi there 👋
+## Olá, me chamo Alba Thalita
 
-<!--
-**albathalita/albathalita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/albathalita">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=albathalita&show_icons=true&theme=dracula">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albathalita&layout=compact&theme=dracula"
+<div>
+  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

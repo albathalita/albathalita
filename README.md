@@ -1,13 +1,6 @@
 ## Olá, me chamo Alba Thalita
 
-<div>
-  <a href="https://github.com/albathalita">
-  <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=albathalita&show_icons=true&theme=dracula">
-  <img height="155cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albathalita&layout=compact&theme=dracula"
-<div>
-  
-
-- 🔭 I’m currently working on ...
+- 🎓 Cursando o 10º período do Bacharelado em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,4 +8,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/albathalita">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=albathalita&show_icons=true&theme=dracula">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albathalita&layout=compact&theme=dracula"
+<div>
+  

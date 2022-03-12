@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/albathalita">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=albathalita&show_icons=true&theme=dracula">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albathalita&layout=compact&theme=dracula"
+  <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=albathalita&show_icons=true&theme=dracula">
+  <img height="155cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albathalita&layout=compact&theme=dracula"
 <div>
   
 

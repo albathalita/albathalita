@@ -1,6 +1,7 @@
 ## Olá, me chamo Alba Thalita
 
-- 🎓 Cursando o 10º período do Bacharelado em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)
+- 🎓 Cursando o 7º período da Engenharia Mecatrônica na Universidade Federal do Rio Grande do Norte (UFRN)
+- 🎓 Bacharel em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN).
 
 
 <div>
